@@ -1,0 +1,27 @@
+body {
+   
+   
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    background-color: #f0f8ff; /* Białe tło formularza */ 
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Delikatny cień */
+    width: 100%;
+}
+
+
+button {
+    margin-top: 15px;
+    display: inline-block;
+    margin-right: 10px;
+}
+.button-group {
+    margin-top: 20px;
+    text-align: center;
+}
