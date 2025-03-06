@@ -252,7 +252,7 @@ $wstaw_query=mysqli_query($conn,$wstawianie);
                   <button type='submit' class='btn btn-secondary'>PDF</button>
               </form>
           </td>
-      </tr>";
+      </tr>dasd";
       $i++;
   }
 
